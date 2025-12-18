@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manish | Business Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">Manish</div>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Know About Manish Business</h1>
+    <p>We provide smart solutions to grow your business faster.</p>
+</section>
+
+<section class="services">
+    <h2>Our Services</h2>
+
+    <div class="cards">
+        <div class="card">
+            <h3>Business Talk</h3>
+            <p>Expert advice to improve your business process.</p>
+        </div>
+
+        <div class="card">
+            <h3>Development</h3>
+            <p>We help you grow your business digitally.</p>
+        </div>
+
+        <div class="card">
+            <h3>Support</h3>
+            <p>24/7 support for your business needs.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2025 Manish. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
